@@ -1,0 +1,66 @@
+🐨 Koala Tea Eye Candy LLC | GitHub & Indiegogo Launchpad 🚀
+Hey, I'm Kurt Otte. Here's what you need to know:
+I'm a combat veteran with 15+ years of disciplined military service, extensive experience in commercial HVAC automation, and a passion for emerging tech. Koala Tea Eye Candy LLC isn't just another XR startup—we're pioneering the future of immersive media, hybrid motion capture, drone telemetry, and interactive storytelling, built from scratch right here in Spokane Valley, Washington.
+
+🌟 What We're Building
+Our flagship product, Numinous, is a patent-pending, real-time hybrid telemetry and motion-capture system designed for next-gen immersive experiences. It combines:
+
+Real-time vehicle telemetry (OBD-II data streams)
+
+Drone-based spatial telemetry and photogrammetry
+
+Hybridized animal-human motion capture integration
+
+Seamless digital-twin asset pipelines into Unreal Engine XR/VR environments
+
+This isn't vaporware—it's real, tangible, and urgently needed by multiple industries, including simulation & training, real estate virtualization, gaming, and public safety applications​Koala_Tea_Eye_Candy_Inv….
+
+🔍 Why You're Here
+You're curious about groundbreaking immersive tech.
+
+You understand the massive potential in digital twinning, XR, and real-time telemetry.
+
+You're ready to back innovation that's disciplined, meaningful, and strategically built for real-world applications.
+
+💡 Why Indiegogo & GitHub?
+We've opted for a Flat Fund campaign model on Indiegogo—no gimmicks, no distractions. We believe in transparency, straightforward development, and public accountability. GitHub serves as our open compendium—a living archive documenting our progress, evolution, and vision. Here you'll find all the details, plans, and developmental stages clearly laid out.
+
+🎯 What’s Our Roadmap?
+Here's our step-by-step plan:
+
+Immediate Goals (Q1-Q2 2025):
+
+Establish operational capabilities with photogrammetry and XR integration (Matterport & Unreal Engine).
+
+Secure equipment & software licensing.
+
+Finalize initial Numinous integration tests on our proprietary 5-acre testbed​Koala_Tea_Eye_Candy_Q1_….
+
+Short-Term Goals (2025-2027):
+
+Complete facility and infrastructure upgrades, including drone grids, modular capture bays, and motion capture paths.
+
+Launch our proprietary digital clone asset library for XR, VR, simulation, and tactical training​Koala_Tea_Eye_Candy_Q1_….
+
+Achieve initial revenue targets ($100K+) through real estate XR conversions and digital asset licensing.
+
+Long-Term Vision (Beyond 2027):
+
+Expand into homeland security and decentralized IoT mesh applications​Koala_Tea_Eye_Candy_Q1_….
+
+Scale into dynamic XR arcade experiences, fusing physical and virtual realities.
+
+📌 Why Support Now?
+Patent-Pending Tech: Your backing helps finalize our full patent and reinforces our position as early innovators in hybridized telemetry.
+
+Direct Impact: Every dollar translates directly into hardware, software, and immediate operational capability.
+
+Veteran-Owned, Family-Run: We keep overhead intentionally low, operate with integrity, and deliver tangible results quickly.
+
+🏅 Join Us
+This isn’t about hype. It’s about trust, tangible progress, and transparent innovation. Join our mission to redefine immersive media, and help us bridge the gap between virtual and real worlds, one hybridized telemetry asset at a time.
+
+🌐 koalateam.net | 📞 509-263-4023 | 📧 kurt.otte24@gmail.com
+
+Quality Assets That Change the Game.
+Koala Tea Eye Candy LLC | Veteran Owned & Operated 🇺🇸
