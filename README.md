@@ -12,7 +12,7 @@ Below is the living map of sectors, movements, and ecosystems we are engaging as
 ## 💰 FINANCE / CRYPTO INFRASTRUCTURE
 - Solana / SOLHNT – Validation funding + network scaling
 - Filecoin / Protocol Labs – Storage layer, IPFS builders
-- Gitcoin / Kevin Owocki – Public goods infrastructure
+- Gitcoin / – Public goods infrastructure
 - Coinbase Ecosystem – Early visionaries and capital amplifiers
 
 ---
